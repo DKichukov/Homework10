@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e746c8e4-102f-44cf-af46-c9dd5fc5313e" name="Changes" comment="" />
+    <list default="true" id="e746c8e4-102f-44cf-af46-c9dd5fc5313e" name="Changes" comment="initial commiting" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +68,14 @@
       <option name="presentableId" value="Default" />
       <updated>1653495860566</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commiting">
+      <created>1654881859093</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654881859094</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +88,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commiting" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commiting" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
